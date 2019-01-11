@@ -1,0 +1,25 @@
+/*nineGrid 默认皮肤*/
+/*大背景*/
+.box{
+    background-image: url(//p2.ssl.qhimg.com/t018307e93806e66744.png);
+}
+/*闪灯dark*/
+.light li p{
+    background-image: url(//p2.ssl.qhimg.com/t01aa5daa9fea0de38c.png);
+}
+/*闪灯light*/
+.light li p.blin {
+    background-image: url(//p0.ssl.qhimg.com/t01b0312b1d81aee55b.png);
+}
+/*奖品格子正常*/
+.play li{
+    background-image: url(//p0.ssl.qhimg.com/t012a91a3494828f11d.png);
+}
+/*奖品格子高亮*/
+.play li.select {
+    background-image: url(//p2.ssl.qhimg.com/t01fc4ab79ad941b966.png);
+}
+/*开始按钮*/
+#btn {
+    background-image: url(//p3.ssl.qhimg.com/t01c5a8ef187834a2cd.png);
+}
